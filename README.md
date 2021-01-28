@@ -1,4 +1,4 @@
-# Four-of-Four-Division-Phenomenon
+# Four-of-Fourty-Division-Phenomenon
 
 Question :
 How can you divide 40 to 4 parts such that every 
